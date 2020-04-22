@@ -1,0 +1,2 @@
+create database Conference_reviews;
+use Conference_reviews;
